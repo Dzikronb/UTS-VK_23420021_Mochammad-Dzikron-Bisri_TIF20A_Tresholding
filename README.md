@@ -1,1 +1,5 @@
-# UTS-VK_23420021_Mochammad-Dzikron-Bisri_TIF20A_Tresholding
+Nama      : Mochammad Dzikron Bisri
+NIM       : 23420021
+Prodi     : Teknik Informatika
+Angkatan  : 2020
+Kelas     : A
